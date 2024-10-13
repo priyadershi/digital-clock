@@ -1,3 +1,5 @@
+import React from "react";
+
 const Colon = () => {
   return (
     <div className="colon">

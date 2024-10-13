@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import Digit from "./Digit";
 import Colon from "./Colon";
