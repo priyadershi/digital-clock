@@ -39,8 +39,8 @@ const Digit = ({ digit }) => {
     },
     {
       digit: 7,
-      up: "U R D",
-      down: "U R",
+      up: "U R",
+      down: "R",
     },
     {
       digit: 8,
